@@ -1,1 +1,1 @@
-wget -q -O data/raw/counties.zip "https://www2.census.gov/geo/tiger/TIGER2018/COUNTY/tl_2018_us_county.zip"
+RUN binder/download_geodata.py
