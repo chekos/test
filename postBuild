@@ -1,1 +1,1 @@
-wget -q -O exercises/data/raw/ "https://www2.census.gov/geo/tiger/TIGER2018/COUNTY/tl_2018_us_county.zip"
+wget -q -O data/raw/ "https://www2.census.gov/geo/tiger/TIGER2018/COUNTY/tl_2018_us_county.zip"
