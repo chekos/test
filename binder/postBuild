@@ -1,1 +1,1 @@
-python download_geodata.py
+python binder/download_geodata.py
